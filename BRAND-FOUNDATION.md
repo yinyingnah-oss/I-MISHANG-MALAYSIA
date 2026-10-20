@@ -22,6 +22,18 @@
 - Instagram: https://www.instagram.com/imishang_malaysia/
 - Website linked by social profiles: https://www.imishang.life/
 
+### 官方项目联络号码（用户确认，2026-10-20）
+
+| 项目/品牌 | WhatsApp 联系号码 | 使用规则 |
+|---|---:|---|
+| LCW | +60193496785 | 仅对应 LCW 项目 |
+| AISEE LIFE | +60194196286 | 仅对应 AISEE LIFE 项目 |
+| AISEE CARE | +60146826286 | 仅对应 AISEE CARE 项目 |
+| AISEE ACADEMI | +60145915345 | 仅对应 AISEE ACADEMI 项目 |
+| I MISHANG | +60162756286 | I MISHANG Malaysia 主品牌的 CTA 使用此号码 |
+| AISEE HEAT | +60168268572 | 仅对应 AISEE HEAT 项目 |
+| I MISHANG SELECT | +60137856286 | 仅对应 I MISHANG SELECT；不要误用于主品牌 CTA |
+
 ## 2. 最近公开内容观察
 
 观察窗口：Instagram 页面可见的最近帖子（截至 2026-10-20）；Facebook 页面可见帖子。
@@ -34,8 +46,8 @@
 | Instagram，10月11日、10月10日、10月9日、10月8日 | 页面预览可见多条产品及文字视觉 | 多为图片帖（依据帖子预览） | 主题可见度有限；需要打开单帖继续核对文案 |
 | Instagram，9月24日 | 页面预览有一条 Reel | 短视频 | 需要打开单帖继续核对完整内容 |
 
-### CTA 与联系资料需核对
-官方 Instagram 简介当前显示 RM99 首次体验与预约链接；近期 IG/FB 帖子出现 WhatsApp **013-7856286**，Facebook Intro 则显示 **016-275 6286**。不同页面/帖子出现两个号码，发布促销或预约内容前应由公司确认当前使用号码与项目条款。
+### CTA 联系规则
+Instagram 主页的 RM99 首次体验/预约及 I MISHANG 主品牌内容使用 **+60162756286**。帖子出现的 **013-7856286（+60137856286）** 是 I MISHANG SELECT 的项目号码，不是主品牌号码。每条内容必须依项目名称匹配上方号码表；RM99 体验的具体项目与条款仍需核实。
 
 ## 3. 品牌定位草案
 
@@ -86,7 +98,7 @@ I MISHANG Malaysia 为关注肌肤状态的顾客提供护肤产品、面部护�
 
 1. 主推服务、项目内容、适用对象和预约地点。
 2. RM99 首次体验的有效期、具体项目及限制条件。
-3. 当前对外 WhatsApp 主号码（FB 页面与帖子号码不一致）。
+3. 各项目的号码已由公司提供；发布时按项目名称核对号码表，避免跨项目误用。
 4. 官方品牌色、字体，以及适用于浅/深背景的 Logo 文件。
 5. 是否需要建立个人 IP；如果需要，出镜人选与可公开身份资料。
 6. 主要客群的城市、语言偏好与实际顾客常见问题。
