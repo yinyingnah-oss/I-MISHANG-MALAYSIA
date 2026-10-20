@@ -547,3 +547,14 @@ Dashboard：[content-dashboard.html](content-dashboard.html)
 - AAD 痘肌保湿：https://www.aad.org/public/diseases/acne/skin-care/moisturizer
 
 结构化内容：`content-plan-90.json`。
+## 内容审批、作图与发布排期流程
+
+Dashboard 每条内容增加独立审批状态：
+
+1. **待你接受内容**：确认内容方向后点“接受并开始作图”。
+2. **已接受，待作图**：页面记录加入队列；当前本机 HTML 不可直接调用图片生成服务。请在 Codex 聊天发送该条 CONTENT 编号，由助手生成并展示图片预览。
+3. **图片待审核**：将成图添加到对应卡片，检查图文与品牌规范；点击“我同意这张图，申请排期”后才进入下一步。
+4. **等待 Telegram 确认**：页面提供确认消息草稿。发布排期必须等待负责人在 Telegram 明确同意；没有同意就不排期、不发布。
+5. **已确认，可排期**：仅在 Telegram 已收到明确同意后，手动确认状态。
+
+审批状态保存在当前浏览器的本地存储。它不会自动启动作图、发送 Telegram 消息、同步 Notion/GitHub 或实际发布内容。
