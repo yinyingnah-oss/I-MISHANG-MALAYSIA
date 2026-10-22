@@ -3,7 +3,7 @@
 - 更新日期：2026-10-23
 - 用途：追踪 Facebook / Instagram 的 Meta 广告资料库赞助广告及素材、文案、投放跨度和营销角度。
 - 品牌：IMISHANG、AISEEHEAT、AISEE SIGNATURE；业务为美容、汗蒸、头疗、洗脚。
-- 当前记录：138 条唯一 Meta 广告编号（截至 2026-10-23；Dashboard 以广告编号去重）。
+- 当前记录：140 条唯一 Meta 广告编号（截至 2026-10-23；Dashboard 以广告编号去重）。
 - 版位口径：Meta 资料库未逐条明确显示 Facebook / Instagram 版位，因此表中标注“Meta（FB/IG未拆分）”。
 - 投放跨度：Meta 显示开始日期至最近确认日的估算跨度，不代表官方连续投放日数。
 
@@ -271,3 +271,5 @@ Dashboard 广告资料库筛选栏新增“全部地区 / Johor / Penang / KL / 
 | Beleco Clinic | 待核实 / — | 2026-10-22 | ACTIVE 搜索命中；2 天（估算，截至 2026-10-23） | 眼周护理/对比切入（依标题） | Meta 搜索标题：Similar Eye Bags. Different Solutions.；完整正文未取得。 | 待核实 | 待核实 | 待核实 | 待核实 / 待核实 | KL facial 搜索候选；地域待核实 | 未取得原始素材；保留来源链接 | [ID 1156217540338375 ↗](https://www.facebook.com/ads/library/?id=1156217540338375) · ACTIVE；正文/格式/地域待核实 |
 | Beleco Clinic | 待核实 / — | 2026-10-22 | ACTIVE 搜索命中；2 天（估算，截至 2026-10-23） | 眼周护理/问题切入（依标题） | Meta 搜索标题：Under-Eye Bags Deserve a Clear Plan；完整正文未取得。 | 待核实 | 待核实 | 待核实 | 待核实 / 待核实 | KL facial 搜索候选；地域待核实 | 未取得原始素材；保留来源链接 | [ID 1125493516638881 ↗](https://www.facebook.com/ads/library/?id=1125493516638881) · ACTIVE；正文/格式/地域待核实 |
 | Beleco Clinic | 待核实 / — | 2026-10-22 | ACTIVE 搜索命中；2 天（估算，截至 2026-10-23） | 眼周护理/教育切入（依标题） | Meta 搜索标题：Eye Bag Treatment: Ask These 3 Things；完整正文未取得。 | 待核实 | 待核实 | 待核实 | 待核实 / 待核实 | KL facial 搜索候选；地域待核实 | 未取得原始素材；保留来源链接 | [ID 1895604498087865 ↗](https://www.facebook.com/ads/library/?id=1895604498087865) · ACTIVE；正文/格式/地域待核实 |
+| Aesthetic Ipoh Perak | 待核实 / — | 2026-10-22 | ACTIVE 搜索命中；2 天（估算）（截至 2026-10-23） | 待核实 | Meta 搜索摘要未返回标题/正文；需打开原始预览核实。 | 待核实 | 待核实 | 待核实 | 待核实 / 待核实 | Ipoh（页面名含地区线索；投放地域待核实） | 未取得原始素材；保留来源链接 | [ID 1112044734751729 ↗](https://www.facebook.com/ads/library/?id=1112044734751729) · ACTIVE；正文/格式/地域待核实 |
+| MTJ Skinlac Beauty | 待核实 / — | 2026-10-20 | ACTIVE 搜索命中；4 天（估算）（截至 2026-10-23） | 待核实 | Meta 搜索摘要未返回标题/正文；需打开原始预览核实。 | 待核实 | 待核实 | 待核实 | 待核实 / 待核实 | Ipoh foot massage 搜索候选；页面/服务/实际投放地域待核实 | 未取得原始素材；保留来源链接 | [ID 2357690751648892 ↗](https://www.facebook.com/ads/library/?id=2357690751648892) · ACTIVE；正文/格式/地域待核实 |
