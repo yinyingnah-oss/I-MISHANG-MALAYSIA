@@ -1,9 +1,9 @@
 # IMISHANG｜Meta 竞争对手广告追踪备份
 
-- 更新日期：2026-10-19
+- 更新日期：2026-10-23
 - 用途：追踪 Facebook / Instagram 的 Meta 广告资料库赞助广告及素材、文案、投放跨度和营销角度。
 - 品牌：IMISHANG、AISEEHEAT、AISEE SIGNATURE；业务为美容、汗蒸、头疗、洗脚。
-- 当前记录：128 条唯一 Meta 广告编号（截至 2026-10-22；Dashboard 以广告编号去重）。
+- 当前记录：138 条唯一 Meta 广告编号（截至 2026-10-23；Dashboard 以广告编号去重）。
 - 版位口径：Meta 资料库未逐条明确显示 Facebook / Instagram 版位，因此表中标注“Meta（FB/IG未拆分）”。
 - 投放跨度：Meta 显示开始日期至最近确认日的估算跨度，不代表官方连续投放日数。
 
@@ -254,3 +254,20 @@ Dashboard 广告资料库筛选栏新增“全部地区 / Johor / Penang / KL / 
 > 观察延续：AORA Spa & Wellness KL 的 3 个既有广告编号（1410318157524307、1047128191719942、1661952531978053）本轮再次出现在 ACTIVE 搜索中，仅更新最后观察日/估算跨度，未发现广告文案或素材内容变化。
 
 > 今日检索备注：Facebar 关键词发现 1 条页面归属与地区均待核实的候选广告；Anran 搜索词无结果。Ipoh 足疗词找到 Ratu Nusantara 页面广告；Ipoh 汗蒸词无结果，不代表没有竞争者。Meta 搜索未提供可核实原片，本轮无新记录确认素材格式或视频时长。
+
+## 2026-10-23 Meta 广告资料库检查
+
+今日新增 10 条唯一广告编号；内容变更 0 条。Meta Ad Library ACTIVE 检索返回的标题按原文记录；完整正文、原始素材、素材格式/视频时长未取得的字段均标为待核实。地区关键词匹配及页面名线索不等同于实际投放地域确认。
+
+| 竞争对手 | 素材 / 时长 | Meta开始日期 | 观察跨度 | 内容角度 | 广告摘要 | 顾客痛点 | 梦想/结果 | 解决方案 | 价格/优惠 | 地点 | 广告预览素材 | Meta来源 |
+|---|---|---:|---:|---|---|---|---|---|---|---|---|---|
+| Naarabelle Facespa Johor Bahru | 待核实 / — | 2026-10-22 | ACTIVE 搜索命中；2 天（估算，截至 2026-10-23） | 免费/体验钩子（依标题） | Meta 搜索标题：GET FREE PEARL & GLOW FACIAL NOW；完整正文未取得。 | 待核实 | 待核实 | 待核实 | RM / 标题出现优惠/促销提示；价格与条款待核实 | Johor / JB（页面名含地区；投放地域待核实） | 未取得原始素材；保留来源链接 | [ID 2059301324749525 ↗](https://www.facebook.com/ads/library/?id=2059301324749525) · ACTIVE；正文/格式/地域待核实 |
+| Naarabelle Facespa Johor Bahru | 待核实 / — | 2026-10-22 | ACTIVE 搜索命中；2 天（估算，截至 2026-10-23） | 免费/体验钩子（依标题） | Meta 搜索标题：GET FREE PEARL & GLOW FACIAL NOW；完整正文未取得。 | 待核实 | 待核实 | 待核实 | RM / 标题出现优惠/促销提示；价格与条款待核实 | Johor / JB（页面名含地区；投放地域待核实） | 未取得原始素材；保留来源链接 | [ID 1639119220959912 ↗](https://www.facebook.com/ads/library/?id=1639119220959912) · ACTIVE；正文/格式/地域待核实 |
+| Naarabelle Facespa Johor Bahru | 待核实 / — | 2026-10-22 | ACTIVE 搜索命中；2 天（估算，截至 2026-10-23） | 免费/体验钩子（依标题） | Meta 搜索标题：GET FREE PEARL & GLOW FACIAL NOW；完整正文未取得。 | 待核实 | 待核实 | 待核实 | RM / 标题出现优惠/促销提示；价格与条款待核实 | Johor / JB（页面名含地区；投放地域待核实） | 未取得原始素材；保留来源链接 | [ID 1123299300171723 ↗](https://www.facebook.com/ads/library/?id=1123299300171723) · ACTIVE；正文/格式/地域待核实 |
+| Nova Beauty Studio Eco Botanic 2 | 待核实 / — | 2026-10-22 | ACTIVE 搜索命中；2 天（估算，截至 2026-10-23） | 服务组合/问题切入（依标题） | Meta 搜索标题：头疗护理改善脱发｜精致美甲｜足部护理尽在这里💕；完整正文未取得。 | 待核实 | 待核实 | 待核实 | 待核实 / 待核实 | Johor / JB（页面名含 Eco Botanic；实际投放地区待核实） | 未取得原始素材；保留来源链接 | [ID 2134647340462137 ↗](https://www.facebook.com/ads/library/?id=2134647340462137) · ACTIVE；正文/格式/地域待核实 |
+| Nova Beauty Studio Eco Botanic 2 | 待核实 / — | 2026-10-22 | ACTIVE 搜索命中；2 天（估算，截至 2026-10-23） | 体验/预约钩子（依标题） | Meta 搜索标题：✅ 沉浸式体验，立即预约美甲或头疗时段吧！；完整正文未取得。 | 待核实 | 待核实 | 待核实 | 待核实 / 待核实 | Johor / JB（页面名含 Eco Botanic；实际投放地区待核实） | 未取得原始素材；保留来源链接 | [ID 1451278023681961 ↗](https://www.facebook.com/ads/library/?id=1451278023681961) · ACTIVE；正文/格式/地域待核实 |
+| HeadSpa Estika | 待核实 / — | 2026-10-22 | ACTIVE 搜索命中；2 天（估算，截至 2026-10-23） | 价格促销 CTA（依标题） | Meta 搜索标题：Nak Grab Harga Promo? Klik Sini 👉；完整正文未取得。 | 待核实 | 待核实 | 待核实 | 待核实 / 标题出现优惠/促销提示；价格与条款待核实 | Penang 搜索候选；地域待核实 | 未取得原始素材；保留来源链接 | [ID 2395241091218504 ↗](https://www.facebook.com/ads/library/?id=2395241091218504) · ACTIVE；正文/格式/地域待核实 |
+| 洁面猫 Facial Cat Facebar | 待核实 / — | 2026-10-22 | ACTIVE 搜索命中；2 天（估算，截至 2026-10-23） | 场景切入/面部护理（依标题） | Meta 搜索标题：逛街累了？顺便给肌肤做个毛孔深层 SPA！；完整正文未取得。 | 待核实 | 待核实 | 待核实 | 待核实 / 待核实 | Ipoh facial 搜索候选；地域待核实 | 未取得原始素材；保留来源链接 | [ID 1121910073754310 ↗](https://www.facebook.com/ads/library/?id=1121910073754310) · ACTIVE；正文/格式/地域待核实 |
+| Beleco Clinic | 待核实 / — | 2026-10-22 | ACTIVE 搜索命中；2 天（估算，截至 2026-10-23） | 眼周护理/对比切入（依标题） | Meta 搜索标题：Similar Eye Bags. Different Solutions.；完整正文未取得。 | 待核实 | 待核实 | 待核实 | 待核实 / 待核实 | KL facial 搜索候选；地域待核实 | 未取得原始素材；保留来源链接 | [ID 1156217540338375 ↗](https://www.facebook.com/ads/library/?id=1156217540338375) · ACTIVE；正文/格式/地域待核实 |
+| Beleco Clinic | 待核实 / — | 2026-10-22 | ACTIVE 搜索命中；2 天（估算，截至 2026-10-23） | 眼周护理/问题切入（依标题） | Meta 搜索标题：Under-Eye Bags Deserve a Clear Plan；完整正文未取得。 | 待核实 | 待核实 | 待核实 | 待核实 / 待核实 | KL facial 搜索候选；地域待核实 | 未取得原始素材；保留来源链接 | [ID 1125493516638881 ↗](https://www.facebook.com/ads/library/?id=1125493516638881) · ACTIVE；正文/格式/地域待核实 |
+| Beleco Clinic | 待核实 / — | 2026-10-22 | ACTIVE 搜索命中；2 天（估算，截至 2026-10-23） | 眼周护理/教育切入（依标题） | Meta 搜索标题：Eye Bag Treatment: Ask These 3 Things；完整正文未取得。 | 待核实 | 待核实 | 待核实 | 待核实 / 待核实 | KL facial 搜索候选；地域待核实 | 未取得原始素材；保留来源链接 | [ID 1895604498087865 ↗](https://www.facebook.com/ads/library/?id=1895604498087865) · ACTIVE；正文/格式/地域待核实 |
